@@ -1,17 +1,16 @@
 
 
-<?xml version="1.0" encoding="UTF-8" ?>
-
+<?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.api-request"
         version   = "1.0.0">
 
-    <name>APP Demo 1</name>
+    <name>API Demo</name>
 
-    <description> APP Demo 1</description>
-
+    <description>
+        API Demo
+    </description>
     <icon src="dar.jpg" />
-
 
 </widget>
