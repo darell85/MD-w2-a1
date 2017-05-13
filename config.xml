@@ -7,9 +7,9 @@
         id        = "com.phonegap.api-request"
         version   = "1.0.0">
 
-    <name>APP Demo 1</name>
+    <name>APP Demo </name>
 
-    <description> APP Demo 1 </description>
+    <description> APP Demo </description>
 
 
     <!-- Define app icon for each platform.  -->
