@@ -12,9 +12,9 @@
     <description> APP Demo 1 </description>
 
 
-    <!-- Define app icon for each platform. -->
+    <!-- Define app icon for each platform.
     <icon src="dar.jpg" />
-
+ -->
     <!--
     <icon src="icon/android/icon-36-ldpi.png"   gap:platform="android"    gap:qualifier="ldpi" />
     <icon src="icon/android/icon-48-mdpi.png"   gap:platform="android"    gap:qualifier="mdpi" />
