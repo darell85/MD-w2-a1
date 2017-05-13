@@ -7,11 +7,11 @@
         id        = "com.phonegap.api-request"
         version   = "1.0.0">
 
-    <name>APP Demo </name>
+    <name>APP Demo 1</name>
 
-    <description> APP Demo </description>
-
+    <description> APP Demo 1</description>
+<!--
     <icon src="dar.jpg" />
 
-
+-->
 </widget>
